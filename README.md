@@ -20,7 +20,7 @@ Ele permite:
 ### Frontend:
 - HTML5
 - CSS3 (puro)
-- JavaScript Vanilla (fetch API)
+- JavaScript 
 
 ---
 
